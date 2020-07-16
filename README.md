@@ -5,4 +5,4 @@
 # I am making these files public because the analysis does not fit entirely into the time scope of this thesis.
 # Finalizing and improving the replicated analysis could have significant implications for fiscal policy in the Netherlands.
 # Therefore I encourage future master students or other scholars to complete this replication study by means of the R files.
-# Because large part of the data used was confidentially shared by dr. Alloza, please contact me to get access to the Excel files.
+# Because large part of the data used was confidentially shared with me by dr. Alloza, please contact me to get access to the Excel files.
